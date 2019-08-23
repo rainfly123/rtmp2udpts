@@ -21,3 +21,10 @@ vhost __defaultVhost__ {
  24     }
  25 }
 ```
+
+If it helped you a bit, you could buy me a cup of coffe
+ ![alipay](https://github.com/rainfly123/ts2hls/blob/master/ali.jpg) 
+
+
+ ![wx](https://github.com/rainfly123/udp2rtmp/blob/master/wx.jpg)
+
